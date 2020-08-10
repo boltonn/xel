@@ -64,6 +64,11 @@
             * 2) problem: model not good enough (b/c short text)
                 2) solution: replace LSTM w/ character n-gram model
         * average gain of 16.9% on gold candidate recall (formula nice in the paper) and 7.9% on XEL
+        
+    * **Zero-shot Entity Linking with Dense Entity Retrieval**: [[paper]](https://arxiv.org/pdf/1911.03814.pdf), [[code]](https://github.com/facebookresearch/BLINK), [[slides]](https://speakerdeck.com/izuna385/zero-shot-entity-linking-with-dense-entity-retrieval-unofficial-slides-and-entity-linking-future-directions?slide=71)
+    * **Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions**: [[paper]](http://dbgroup.cs.tsinghua.edu.cn/wangjy/papers/TKDE14-entitylinking.pdf)
+    
+    * **Zero-Shot Entity Linking by Reading Entity Descriptions**: [[paper]](https://www.aclweb.org/anthology/P19-1335.pdf)
     
 ## Data:
 * **DBpedia**: [2016](https://wiki.dbpedia.org/downloads-2016-10), [2018](https://wiki.dbpedia.org/Datasets)
